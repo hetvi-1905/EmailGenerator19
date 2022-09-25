@@ -1,25 +1,13 @@
-import streamlit as st
 import openai
+import streamlit as st
 from ml_backend import ml_backend
 
-st.title("Interactive Email Generator App")
-st.text("by Alex Zavalny")
+st.title("Automated Email Generator App")
 
-st.markdown(""" 
+coder = '<h1 style="font-family:Times-New-Roman; color:Red ; font-size: 20px;">by Hetvi Bhora</h1>'
+st.markdown(coder,unsafe_allow_html=True)
 
-# About
- 
-## Play around with the sliders and text fields to generate your very own emails! 
-## At the end, you can automatically send your email to a recipient via Gmail  
-
-## Business Benefits and Usecases:
-* Time saved writing medium-long sized emails
-* Mental Energy is conserved
-* Anxiety of writing a **professional sounding** email (or email with any writing style) is removed as the GPT3 Language model used is trained from a variety of many different internet sources
-
-""")
-
-st.markdown("# Generate Email")
+st.title("Generate Email")
 
 backend = ml_backend()
 
@@ -41,11 +29,16 @@ with st.form(key="form"):
         st.subheader(start + output)
 
         st.markdown("____")
-        st.markdown("# Send Your Email")
+
         st.subheader("You can press the Generate Email Button again if you're unhappy with the model's output")
+
+        st.markdown("____")
+
+        st.markdown("# Send Your Email Now")
+
         
-        st.subheader("Otherwise:")
-        st.text(output)
+        # st.subheader("Otherwise:")
+        # st.text(start + output)
         url = "https://mail.google.com/mail/?view=cm&fs=1&to=&su=&body=" + backend.replace_spaces_with_pluses(start + output)
 
         st.markdown("[Click me to send the email]({})".format(url))
