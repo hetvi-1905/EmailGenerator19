@@ -25,6 +25,13 @@ OpenAI’s API provides access to GPT-3, which performs a wide variety of NLP ta
 I have deployed the ML-Pipeline on a Web application using Flask.
 https://emailgenerator19.herokuapp.com/
 
+ ## 🔨 Tech-Stack
+ <ul>
+  <li> Front-end:Streamlit </li>
+  <li> Back-end:Flask </li>
+  <li> Machine Learning Libraries:Numpy, Pandas,OpenAI API,GPT3</li>
+ </ul>
+
 ## 📷 Screenshots
 Landing Page 
 ![Screenshot (496)](https://user-images.githubusercontent.com/84613393/198874393-dd7d507f-ba90-44bd-953a-4a549a5422d4.png)
@@ -35,10 +42,8 @@ User Input
 Output
 ![Screenshot (500)](https://user-images.githubusercontent.com/84613393/198874530-1f28771e-d2c8-43ac-82b7-cab835342066.png)
 
+On Clicking on Send Email
+![Screenshot (501)](https://user-images.githubusercontent.com/84613393/198874668-1b54fb29-1eab-40a1-9792-513577da0886.png)
 
- ## 🔨 Tech-Stack
- <ul>
-  <li> Front-end:Streamlit </li>
-  <li> Back-end:Flask </li>
-  <li> Machine Learning Libraries:Numpy, Pandas,OpenAI API,GPT3</li>
- </ul>
+
+
