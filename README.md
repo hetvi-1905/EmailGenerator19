@@ -1,7 +1,3 @@
-# Automatic Email Generator using GPT3
-- This is an automatic email generator app built using GPT3 and NLP 
-- Heroku Deployment Link of Working Project : https://emailgenerator19.herokuapp.com/
-
 # 📧Automatic Email Generator
 ![EmailGenerator19](https://user-images.githubusercontent.com/84613393/198873168-4489c84d-60dc-475f-bb1d-693660cf9f50.png)
 
@@ -37,7 +33,8 @@ User Input
 ![Screenshot (499)](https://user-images.githubusercontent.com/84613393/198874444-6fab3083-5d2c-435b-9fe3-45318cbc6166.png)
 
 Output
-![Screenshot (498)](https://user-images.githubusercontent.com/84613393/198874431-83331fce-390e-4ceb-b4e1-051a2ffab724.png)
+|![Screenshot (498)](https://user-images.githubusercontent.com/84613393/198874431-83331fce-390e-4ceb-b4e1-051a2ffab724.png)|
+|![Screenshot (500)](https://user-images.githubusercontent.com/84613393/198874530-1f28771e-d2c8-43ac-82b7-cab835342066.png)|
 
 
  ## 🔨 Tech-Stack
