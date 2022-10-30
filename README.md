@@ -31,10 +31,13 @@ https://emailgenerator19.herokuapp.com/
 
 ## 📷 Screenshots
 Landing Page 
+![Screenshot (496)](https://user-images.githubusercontent.com/84613393/198874393-dd7d507f-ba90-44bd-953a-4a549a5422d4.png)
 
 User Input
+![Screenshot (499)](https://user-images.githubusercontent.com/84613393/198874444-6fab3083-5d2c-435b-9fe3-45318cbc6166.png)
 
 Output
+![Screenshot (498)](https://user-images.githubusercontent.com/84613393/198874431-83331fce-390e-4ceb-b4e1-051a2ffab724.png)
 
 
  ## 🔨 Tech-Stack
