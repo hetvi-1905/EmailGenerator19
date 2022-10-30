@@ -22,7 +22,7 @@ OpenAI’s API provides access to GPT-3, which performs a wide variety of NLP ta
 </ul>
 
 ## 🎯 Deployment at Heroku
-I have deployed the ML-Pipeline on a Web application using Flask.
+I have deployed the ML-Pipeline on a Web application using Streamlit.
 https://emailgenerator19.herokuapp.com/
 
  ## 🔨 Tech-Stack
