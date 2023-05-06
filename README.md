@@ -5,7 +5,7 @@
 An automatic email generator that generates whole email based on the subject inserted by the user.
 
 ## 📌 Importance 
-Such mail generator are useful in order to generate some preformated mails automatically just by inserting the subject by the user without any manual typing.
+Such mail generator are useful in order to generate some pre-formatted mails automatically just by inserting the subject by the user without any manual typing.
 
 ## 🎥 Demo Video 
 https://user-images.githubusercontent.com/84613393/198873840-f479bdf9-44ca-4182-84a0-2a0909b7835a.mp4
