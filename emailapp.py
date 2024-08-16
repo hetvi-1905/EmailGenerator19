@@ -5,7 +5,7 @@ from ml_backend import ml_backend # changes
 st.title("Automated Email Generator App")
 
 coder = '<h1 style="font-family:Times-New-Roman; color:Red ; font-size: 20px;">by Hetvi Bhora</h1>'
-st.markdown(coder,unsafe_allow_html=True)
+st.markdown(coder, unsafe_allow_html=True)
 
 st.title("Generate Email")
 
